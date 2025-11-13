@@ -23,7 +23,7 @@ repository               : "katiejohnsonsf/katiejohnsonsf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # images/"Katie Johnson_ headshot.png"
+  # avatar           : # images/"Katie Johnson_ headshot.png"
   name             : "Katie Johnson"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist for public interest at U.S. Census with a background in applied product research and environmental science."
